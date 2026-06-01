@@ -14,8 +14,16 @@
 6. Updated README.md
    
 ## Issues Encountered
-Issue :
+Issue 1: Codex Phone Number Verification
+Problem:
 Codex required phone number verification before login. I made multiple verification attempts because my phone number was not detected.
 
 Solution :
 I verified that the extension was installed succesfully and attempted to complete the phone verification process. I will retry the verification after the temporary limit is lifted.
+
+Issue 2: Git Not Recognized
+Problem: 
+Cursor could not recognize Git commands because Git was not installed on the computer.
+
+Solution :
+Downloaded and installed Git for Windows, then restarted Cursor.
