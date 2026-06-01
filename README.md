@@ -14,4 +14,8 @@
 6. Updated README.md
    
 ## Issues Encountered
-No major issues encountered.
+Issue :
+Codex required phone number verification before login. I made multiple verification attempts because my phone number was not detected.
+
+Solution :
+I verified that the extension was installed succesfully and attempted to complete the phone verification process. I will retry the verification after the temporary limit is lifted.
