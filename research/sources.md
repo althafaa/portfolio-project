@@ -29,7 +29,7 @@ https://www.youtube.com/@RefineLabs
 https://www.refinelabs.com/newsletter
 
 ### Reason:
-A leading advocate for modern B2B demand generation. He teaches SaaS companies how to create demand, generate pipeline, and drive revenue beyond traditional lead-generation tactics.
+Founder and CEO of Refine Labs. Known for pioneering demand generation strategies and challenging traditional B2B marketing practices. Frequently shares practical insights on content-driven pipeline growth.
 
 ### Status:
 - **LinkedIn Posts:** Pending
@@ -47,7 +47,7 @@ https://www.youtube.com/@amandanatividad
 https://www.amandanat.com/newsletter
 
 ### Reason:
-Popularized the concept of Zero-Click Content, a strategy heavily used by B2B SaaS marketers on LinkedIn to build trust and reach without requiring users to leave the platform.
+VP of Marketing at SparkToro and a leading advocate of zero-click content. Her work focuses on audience building, content distribution, and organic growth.
 
 ### Status:
 - **LinkedIn Posts:** Pending
@@ -65,7 +65,7 @@ https://www.youtube.com/@RossSimmonds
 https://rosssimmonds.com
 
 ### Reason:
-Known for his expertise in content distribution. His work helps SaaS companies maximize the reach and ROI of their content through strategic repurposing and promotion.
+Founder of Foundation Marketing. Recognized for expertise in content distribution and helping B2B brands maximize the reach and impact of their content.
 
 ### Status:
 - **LinkedIn Posts:** Pending
@@ -83,7 +83,7 @@ https://www.youtube.com/@ExitFive
 https://exitfive.com/newsletter
 
 ### Reason:
-Former SaaS marketing executive who emphasizes audience building, community-led growth, and authentic B2B marketing.
+Founder of Exit Five and former marketing executive at Drift and Privy. Widely respected for his expertise in B2B brand building and community-driven marketing.
 
 ### Status:
 - **LinkedIn Posts:** Pending
@@ -101,7 +101,7 @@ https://www.youtube.com/@MajaVoje
 https://www.majavoje.com/newsletter
 
 ### Reason:
-Focuses on startup growth, acquisition channels, experimentation, and scalable growth systems that are highly relevant to SaaS businesses.
+Growth advisor and author specializing in go-to-market strategy, growth experimentation, and startup marketing. Frequently shares actionable frameworks for SaaS growth.
 
 ### Status:
 - **LinkedIn Posts:** Pending
@@ -119,7 +119,7 @@ https://www.youtube.com/@katelynbourgoin
 https://whywebuy.beehiiv.com/
 
 ### Reason:
-Helps companies understand customer behavior, pain points, and buying decisions, which are essential for SaaS messaging and conversion.
+Customer psychology expert who helps marketers understand buying behavior. Her content combines research-backed insights with practical marketing applications.
 
 ### Status:
 - **LinkedIn Posts:** Pending
@@ -137,7 +137,7 @@ https://www.youtube.com/@SaaStr
 https://www.saastr.com/newsletter/
 
 ### Reason:
-Founder of the SaaS-focused community SaaStr. His content centers on scaling SaaS companies, leadership, fundraising, sales, and operations.
+Founder of SaaStr and one of the most influential voices in the SaaS ecosystem. Shares lessons on SaaS growth, leadership, and scaling companies.
 
 ### Status:
 - **LinkedIn Posts:** Pending
@@ -155,7 +155,7 @@ https://www.youtube.com/@AprilDunford
 https://www.aprildunford.com/newsletter
 
 ### Reason:
-One of the most respected voices in product positioning. Her frameworks are widely used by SaaS companies to differentiate themselves in competitive markets.
+Renowned positioning consultant and author. Her expertise in market positioning helps SaaS companies differentiate themselves and communicate value effectively.
 
 ### Status:
 - **LinkedIn Posts:** Pending
@@ -173,7 +173,7 @@ https://www.youtube.com/@HitenShah
 https://hitenism.com/
 
 ### Reason:
-Serial SaaS founder and investor who shares practical insights on product-market fit, growth, customer feedback, pricing, and retention.
+Serial entrepreneur and SaaS founder known for sharing insights on product development, growth, and customer-driven innovation.
 
 ### Status:
 - **LinkedIn Posts:** Pending
