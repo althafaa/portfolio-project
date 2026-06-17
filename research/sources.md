@@ -14,7 +14,8 @@ https://justinwelsh.me/essays
 Former SaaS sales executive who became one of the most influential voices on LinkedIn. His frameworks for personal branding, audience building, and content creation are widely adopted by SaaS founders and operators.
 
 ### Status:
-- **LinkedIn Posts:** Pending
+- **LinkedIn Posts:** Collected and analyzed.
+- **YouTube Transcripts:** No transcript collected (research focused on LinkedIn content).
 
 ## Chris Walker
 
@@ -31,8 +32,8 @@ https://www.refinelabs.com/weekly-newsletter?
 Founder and CEO of Refine Labs. Known for pioneering demand generation strategies and challenging traditional B2B marketing practices. Frequently shares practical insights on content-driven pipeline growth.
 
 ### Status:
-- **LinkedIn Posts:** Pending
-- **YouTube Transcripts:** Pending
+- **LinkedIn Posts:** Collected and analyzed.
+- **YouTube Transcripts:** Collected and analyzed.
 
 ## Amanda Natividad
 
@@ -49,8 +50,8 @@ https://amandanat.com/articles/
 VP of Marketing at SparkToro and a leading advocate of zero-click content. Her work focuses on audience building, content distribution, and organic growth.
 
 ### Status:
-- **LinkedIn Posts:** Pending
-- **YouTube Transcripts:** Pending
+- **LinkedIn Posts:** Collected and analyzed.
+- **YouTube Transcripts:** Collected and analyzed.
 
 ## Ross Simmonds
 
@@ -67,8 +68,8 @@ https://rosssimmonds.com/blog/
 Founder of Foundation Marketing. Recognized for expertise in content distribution and helping B2B brands maximize the reach and impact of their content.
 
 ### Status:
-- **LinkedIn Posts:** Pending
-- **YouTube Transcripts:** Pending
+- **LinkedIn Posts:** Collected and analyzed.
+- **YouTube Transcripts:** Collected and analyzed.
 
 ## Dave Gerhardt
 
@@ -85,8 +86,8 @@ https://exitfive.com/newsletter
 Founder of Exit Five and former marketing executive at Drift and Privy. Widely respected for his expertise in B2B brand building and community-driven marketing.
 
 ### Status:
-- **LinkedIn Posts:** Pending
-- **YouTube Transcripts:** Pending
+- **LinkedIn Posts:** Collected and analyzed.
+- **YouTube Transcripts:** Collected and analyzed.
 
 ## Maja Voje
 
@@ -103,8 +104,8 @@ https://knowledge.gtmstrategist.com/
 Growth advisor and author specializing in go-to-market strategy, growth experimentation, and startup marketing. Frequently shares actionable frameworks for SaaS growth.
 
 ### Status:
-- **LinkedIn Posts:** Pending
-- **YouTube Transcripts:** Pending
+- **LinkedIn Posts:** Collected and analyzed.
+- **YouTube Transcripts:** Collected and analyzed.
 
 ## Katelyn Bourgoin
 
@@ -121,7 +122,8 @@ https://learnwhywebuy.com/newsletter/
 Customer psychology expert who helps marketers understand buying behavior. Her content combines research-backed insights with practical marketing applications.
 
 ### Status:
-- **LinkedIn Posts:** Pending
+- **LinkedIn Posts:** Collected and analyzed.
+- **YouTube Transcripts:** No transcript collected (research focused on LinkedIn content).
 
 ## Jason Lemkin
 
@@ -138,8 +140,8 @@ https://www.saastr.com/subscribeform
 Founder of SaaStr and one of the most influential voices in the SaaS ecosystem. Shares lessons on SaaS growth, leadership, and scaling companies.
 
 ### Status:
-- **LinkedIn Posts:** Pending
-- **YouTube Transcripts:** Pending
+- **LinkedIn Posts:** Collected and analyzed.
+- **YouTube Transcripts:** Collected and analyzed.
 
 ## April Dunford
 
@@ -156,8 +158,8 @@ https://www.aprildunford.com/newsletter
 Renowned positioning consultant and author. Her expertise in market positioning helps SaaS companies differentiate themselves and communicate value effectively.
 
 ### Status:
-- **LinkedIn Posts:** Pending
-- **YouTube Transcripts:** Pending
+- **LinkedIn Posts:** Collected and analyzed.
+- **YouTube Transcripts:** Collected and analyzed.
 
 ## Hiten Shah
 
@@ -174,5 +176,5 @@ https://www.hiten.show/
 Serial entrepreneur and SaaS founder known for sharing insights on product development, growth, and customer-driven innovation.
 
 ### Status:
-- **LinkedIn Posts:** Pending
-- **YouTube Transcripts:** Pending
+- **LinkedIn Posts:** Collected and analyzed.
+- **YouTube Transcripts:** Collected and analyzed.
